@@ -61,9 +61,9 @@ persist.vendor.qcom.bluetooth.twsp_state.enabled=false
 ro.bluetooth.a2dp_offload.supported=true
 
 # Camera
-persist.vendor.camera.privapp.list=com.oneplus.factorymode,com.oem.autotest,com.oneplus.healthcheck,com.vaultmicro.camerafi.live
+persist.vendor.camera.privapp.list=com.oem.autotest,com.oneplus.healthcheck,com.vaultmicro.camerafi.live
 ro.vendor.camera.res.fmq.size=1048576
-vendor.camera.aux.packagelist=com.oneplus.factorymode,com.oneplus.healthcheck,com.vaultmicro.camerafi.live
+vendor.camera.aux.packagelist=com.oneplus.healthcheck,com.vaultmicro.camerafi.live
 
 # Crypto
 ro.crypto.allow_encrypt_override=true
